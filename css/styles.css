@@ -644,6 +644,8 @@ img {
 }
 .button-submit {
   display: block;
+  margin-right: auto;
+  margin-left: auto;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-family: "Roboto", sans-serif;
